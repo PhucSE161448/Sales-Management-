@@ -1,0 +1,15 @@
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\PRN211\sour\Ass02Solution_SE1620_SE150448\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
